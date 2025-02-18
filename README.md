@@ -1,4 +1,4 @@
-The development and routine maintainment of this repository is supported by Artificial Intelligence for Science Institute (AISI), Beijing, ABACUS-Pseudopotential-Numerical Atomic Orbital Square project ([APNS](https://github.com/kirk0830/ABACUS-Pseudopot-Nao-Square)). 
+The development and routine maintainment of this repository are supported by Artificial Intelligence for Science Institute (AISI), Beijing, ABACUS-Pseudopotential-Numerical Atomic Orbital Square project ([APNS](https://github.com/kirk0830/ABACUS-Pseudopot-Nao-Square)). 
 
 Now this repository is already archived. 
 
